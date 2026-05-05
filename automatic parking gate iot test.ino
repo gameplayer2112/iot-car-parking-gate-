@@ -38,7 +38,7 @@ display.println("object detected!");
 Serial.println("Object detected");
 display.display();
 delay(100);
-for(int pos=0;pos<0;pos++)
+for(int pos=0;pos<90;pos++)
 {
   myservo.write(pos);
   delay(100);
