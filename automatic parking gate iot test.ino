@@ -41,7 +41,7 @@ delay(100);
 for(int pos=0;pos<90;pos++)
 {
   myservo.write(pos);
-  delay(100);
+  delay(15);
 }
 delay(500);
 display.clearDisplay();
