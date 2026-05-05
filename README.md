@@ -9,3 +9,4 @@ Components:
 - ESP 32
 
 Note: learnt about individual sensor from  ISA training
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d13cbb82-8c42-4910-b1e6-b1a7d11c7fc0" />
